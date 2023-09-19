@@ -1,0 +1,5 @@
+rootProject.name = 'modulith'
+include 'member'
+include 'loan'
+include 'bank'
+
